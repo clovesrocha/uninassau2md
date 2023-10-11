@@ -9,5 +9,6 @@
 - Python.
 
 # Estudantes Colaboradores
+- Sofia Lorena
 - adicione seu nome aqui..
   
