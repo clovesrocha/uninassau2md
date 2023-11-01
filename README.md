@@ -7,7 +7,8 @@
 - HTML;
 - CSS;
 - JS e;
-- Python.
+- Python;
+- SQL.
 
 # Estudantes Colaboradores
 - Sofia Lorena
